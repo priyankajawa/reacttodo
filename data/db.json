@@ -1,0 +1,24 @@
+{
+    "items":[
+        {
+            "id":1,
+            "checked": true,
+            "item": "Functional components"
+        },
+        {
+            "id":2,
+            "checked": true,
+            "item": "To do List"
+        },
+        {
+            "id":3,
+            "checked": true,
+            "item": "usestate()"
+        },
+        {
+            "id":4,
+            "checked": true,
+            "item": "Color Changing Demo"
+        }
+    ]
+}
